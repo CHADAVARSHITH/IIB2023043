@@ -44,4 +44,5 @@ a:link, a:visited {
 
 a:hover, a:active {
     color: deepskyblue;
+    text-decoration: underlined;
 }
