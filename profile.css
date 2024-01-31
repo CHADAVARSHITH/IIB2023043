@@ -37,7 +37,11 @@ p {
     font-size: 35px;
 }
 
-#mail {
-    font-size: 35px;
+a:link, a:visited {
     color: royalblue;
+    text-decoration: none;
+}
+
+a:hover, a:active {
+    color: deepskyblue;
 }
