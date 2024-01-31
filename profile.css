@@ -1,0 +1,39 @@
+body {
+    background-color: mediumslateblue;
+    backface-visibility: visible;
+}
+
+#image {
+    background-color: whitesmoke;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    margin: auto;
+    border-radius: 20px;
+}
+
+#data {
+    background-color: ghostwhite;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: max-content;
+    margin: auto;
+    padding-right: 80px;
+    text-align: center;
+    border-radius: 20px;
+}
+
+h1 {
+    color: dodgerblue;
+    text-shadow: darkslategrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+    padding: 25px;
+    margin-top: 50px;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    color: black;
+    margin-left: 100px;
+    padding: 30px;
+    font-size: 35px;
+}
