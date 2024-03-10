@@ -8,7 +8,7 @@
 - [network-speed](https://chadavarshith.github.io/network-speed/)): Description of Project 6.1.
 - [tip-calculator](https://chadavarshith.github.io/tip-calculator/)): Description of Project 6.2.
 - [analog-clock](https://chadavarshith.github.io/analog-clock/)): Description of Project 7.
-- [pay-role-management](https://chadavarshith.github.io/pay-role-management/)): Description of Project 8.
+- [pay-role-management]((https://chadavarshith.github.io/pay-role-management/)): Description of Project 8.
 - [mousemove-parallax-effects](https://chadavarshith.github.io/mousemove-parallax-effects/)): Description of Project 9.
 - [text-to-speech-converter](https://chadavarshith.github.io/text-to-speech-converter/)): Description of Project 10.
 - [AI-image-generator](https://chadavarshith.github.io/AI-image-generator/))): Description of Project 12.
