@@ -11,5 +11,5 @@
 - [pay-role-management](https://chadavarshith.github.io/pay-role-management/)): Description of Project 8.
 - [mousemove-parallax-effects](https://chadavarshith.github.io/mousemove-parallax-effects/)): Description of Project 9.
 - [text-to-speech-converter](https://chadavarshith.github.io/text-to-speech-converter/)): Description of Project 10.
-- [AI-image-generator](index.html)): Description of Project 12.
+- [AI-image-generator](https://chadavarshith.github.io/Profile/)): Description of Project 12.
 - [profile]( https://tejavard.github.io/profile/): Description of profile
